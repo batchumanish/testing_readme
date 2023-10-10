@@ -57,6 +57,8 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 <div><img src="./tutorials.svg" alt="divider"></div>
 
+<div><img src="./second_tutorial.svg" alt="divider"></div>
+
 <div><img src="./divider.svg" alt="divider"></div>
 
 
