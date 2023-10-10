@@ -1,5 +1,11 @@
 
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"><div xmlns="http://www.w3.org/1999/xhtml">
+  <style>
+        .hundred {
+          font-size: 100px;
+          color: red;
+        }
+      </style>
    <div align="center"> 
   <img src="./readme_hero.svg" style="width:100%"  alt="hero"/>
  </div>
@@ -13,7 +19,7 @@
 [![Static Badge](https://img.shields.io/badge/codecov-88%25-%235552FF?logo=codecov)](https://codecov.io/gh/AgnostiqHQ/covalent)
 [![apache](https://img.shields.io/badge/License-Apache_License_2.0-blue?color=%235552FF)](https://www.apache.org/licenses/LICENSE-2.0)
 
- <div style="font-size:14px; margin-bottom:20px">Empowering Research on Limited Resources –   Quantum, HPC, GPU, Cloud
+ <div class="hundred">Empowering Research on Limited Resources –   Quantum, HPC, GPU, Cloud
  </div>
 
  <div>  <img src="./getting_started.svg"  alt="hero" style="margin:15px 0 28px 0"/></div>
