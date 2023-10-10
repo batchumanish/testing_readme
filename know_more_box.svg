@@ -9,10 +9,17 @@
                 }
 
                 .item {
-                width:25%;height:80px;
+                width:25%;
+                height:130px;
                 display:flex;
                 flex-direction:column;
                 align-items:center;
+                }
+
+                .anch{
+                    color:red;
+                    font-family:DM Sans;
+                    margin:20px 0 0 0;
                 }
             </style>
             <div class="container">
@@ -31,7 +38,7 @@
                         <path d="M34.4287 18.5736L47.6533 31.6402H34.4287V18.5736Z" fill="#5452F6" />
                         <path d="M32.2246 33.818H19V46.8846H32.2246V33.818Z" fill="#5452F6" />
                     </svg>
-                    <a href="https://www.covalent.xyz/what-is-covalent/" style="margin:20px 0 0 0">What
+                    <a href="https://www.covalent.xyz/what-is-covalent/" class="anch">What
                         is Covalent</a>
                 </div>
 
@@ -61,7 +68,7 @@
                             fill="#6D7CFF" />
                     </svg>
                     <a href="https://www.covalent.xyz/navigating-the-modern-hpc-landscape/"
-                        style="margin:20px 0 0 0">Covalent in the era of cloud-HPC</a>
+                    class="anch">Covalent in the era of cloud-HPC</a>
                 </div>
 
                 <div
@@ -94,7 +101,7 @@
                     </svg>
                     <a
                         href="https://docs.covalent.xyz/docs/user-documentation/concepts/covalent-basics/"
-                        style="margin:20px 0 0 0">Basic Concepts of Covalent</a>
+                        class="anch">Basic Concepts of Covalent</a>
                 </div>
 
                 <div
@@ -147,7 +154,7 @@
                     </svg>
                     <a
                         href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work"
-                        style="margin:20px 0 0 0">How does Covalent work?</a>
+                        class="anch">How does Covalent work?</a>
                 </div>
             </div>
 
