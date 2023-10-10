@@ -12,27 +12,29 @@
                 }
 
                 .contain{
-                <!-- display: grid;
-                grid-template-columns: repeat(2, 1fr); 
-                grid-template-rows: repeat(2, 1fr); -->
                 display:flex;
                 cursor:pointer;
-                padding:0 20px;
+                padding:5px;
                 }
-
+    
                 .item{
                 border:1px solid #5552FF;
                 border-radius:8px;
                 padding:20px 10px;
-                height:185px;
-                width:50%;
+                height:155px;
+                width:46%;
                 }
-
+    
+                .ri{
+                 margin-right:5px;
+                }
+    
+                   
+    
                 .heading{
                 color:#FFF;
                 font-size:16px;
-                font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-
+                font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";  
                 }
 
 
@@ -42,9 +44,8 @@
             </div>
 
             <div class="contain">
-                <div style=" padding: 10px;">
-                    <div onclick="location.href='www.google.com';"
-                        class="item">
+                
+                    <div onclick="location.href='www.google.com';" class="item ri">
                         <svg width="319" height="96" viewBox="0 0 319 96" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <g clip-path="url(#clip0_85_517)">
                             <rect y="0.57373" width="319" height="95" rx="6" fill="#6D7CFF"/>
@@ -72,8 +73,7 @@
                             MNIST Classifier
                         </div>
                     </div>
-                </div>
-                <div style=" padding: 10px;">
+                
                     <div class="item">
                         <svg width="319" height="96" viewBox="0 0 319 96" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_85_525)">
@@ -122,7 +122,7 @@
                             Dynamic Quantum Chemistry Workflow
                         </div>
                     </div>
-                </div>
+                
             </div>
 
                 
