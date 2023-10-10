@@ -19,13 +19,28 @@
   <img src="./readme_executor.svg"  alt="hero" />
  </div>
 
+Covalent is a Pythonic workflow tool for computational scientists, AI/ML software engineers, and anyone who needs to run experiments on limited or expensive computing resources including quantum computers, HPC clusters, GPU arrays, and cloud services.
 
-  Covalent is a Pythonic workflow tool for computational scientists, AI/ML software engineers, and anyone who needs to run experiments on limited or expensive computing resources including quantum computers, HPC clusters, GPU arrays, and cloud services.
+Covalent enables a researcher to run computation tasks on an advanced hardware platform – such as a quantum computer or serverless HPC cluster – using a single line of code.
 
+  <div align="center" >
+   <video  controls>
+   <source src="./readme.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+ </div>
 
+ <div align="center">
+  <img src="./executors.svg"  alt="executors"></img>
+ </div>
 
-  Covalent enables a researcher to run computation tasks on an advanced hardware platform – such as a quantum computer or serverless HPC cluster – using a single line of code.
+  <div align="center">
+  <img src="./development.svg"  alt="executors"></img>
+ </div>
 
+<div style="width: 100%;">
+  <img src="./installation.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <div style="width: 100%;">
   <img src="./test.svg" style="width: 100%;" alt="Click to see the source">

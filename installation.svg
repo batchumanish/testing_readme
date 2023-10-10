@@ -1,0 +1,66 @@
+<svg fill="none" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                display: flex;
+                margin:38px 0 20px 0;
+                }
+
+                .item {
+                width:50%;
+                padding:5px;
+                }
+
+                .heading {
+                color:white; 
+                font-size:24px; 
+                font-weight:500;
+                font-family:Noto Sans;
+            }
+            </style>
+            <div class="container">
+                <div class="item">
+                    <div style="heading">
+                        Installation
+                    </div>
+                    <div style="color:#CBCBD7; font-size:14px; font-weight:400; margin:21px 0 0 0">
+                        Covalent is developed using Python version 3.8 on Linux and macOS. The
+                        easiest way to install Covalent is using the PyPI package manager:
+                    </div>
+                    <div
+                        style="margin:20px 0 0 0;width:50%;border-radius:6px;background:#171B21;color:#89BEFA;padding:12px 10px;display:flex;justify-content:space-between">
+                        <div>$ pip install covalent</div>
+                        <img src="./doc/source/_static/copy.svg" alt="copy" style="cursor:pointer" />
+                    </div>
+
+                </div>
+                <div style="width:50%;  padding:5px">
+                    <div style="color:#F9F9F9; font-size:24px; font-weight:500;">
+                        Getting Started
+                    </div>
+                    <div style="color:#CBCBD7; font-size:14px; font-weight:400; margin:21px 0 0 0">
+                        Ready to try it? Refer to the <a
+                            href="https://docs.covalent.xyz/docs/get-started/quick-start/">Quick
+                        Start</a> guide for quick setup instructions, or to the <a
+                            href="https://docs.covalent.xyz/docs/get-started/first-experiment/">First
+                        Experiment</a> guide for a more thorough approach. For a full list of
+                        supported platforms, see the Covalent <a
+                            href="https://docs.covalent.xyz/docs/user-documentation/compatibility/">compatibility
+                        matrix.</a>
+                    </div>
+                    <div style="color:#CBCBD7; font-size:14px; font-weight:400; margin:21px 0 0 0">
+                        For a more in-depth description of Covalent's features and how they work,
+                        see the <a
+                            href="https://docs.covalent.xyz/docs/user-documentation/concepts/concepts-index/">
+                        Concepts</a> page in the documentation. </div>
+                </div>
+            </div>
+
+        </div>
+    </foreignObject>
+</svg> 
+
+
+  
