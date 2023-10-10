@@ -43,7 +43,7 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 </div>
 <div><img src="./readme_divider.svg" alt="divider"></div>
 
-# Know More
+## Know More
 
 For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.
 
