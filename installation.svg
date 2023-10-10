@@ -13,16 +13,16 @@
                 padding:5px;
                 }
 
-                .heading {
-                color:white; 
-                font-size:24px; 
+                .gg {
+                color:white;
+                font-size:24px;
                 font-weight:500;
-                font-family:Noto Sans;
-            }
+                font-family:DM Sans;
+                }
             </style>
             <div class="container">
                 <div class="item">
-                    <div style="heading">
+                    <div class="gg">
                         Installation
                     </div>
                     <div style="color:#CBCBD7; font-size:14px; font-weight:400; margin:21px 0 0 0">
@@ -32,7 +32,18 @@
                     <div
                         style="margin:20px 0 0 0;width:50%;border-radius:6px;background:#171B21;color:#89BEFA;padding:12px 10px;display:flex;justify-content:space-between">
                         <div>$ pip install covalent</div>
-                        <img src="./doc/source/_static/copy.svg" alt="copy" style="cursor:pointer" />
+                        <!-- <img src="./readme_copy.svg" alt="copy" style="cursor:pointer" /> -->
+                        <!-- <div class="container"> -->
+                        <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <rect x="0.5" y="0.5" width="15.0769" height="17.3333" rx="1.5"
+                                stroke="#86869A" />
+                            <rect x="6.4231" y="4.16662" width="15.0769" height="17.3333"
+                                rx="1.5"
+                                stroke="#86869A" />
+                        </svg>
+                        <!-- </div> -->
+
                     </div>
 
                 </div>
