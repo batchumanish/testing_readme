@@ -17,8 +17,9 @@
 
                 .anch{
                 color:#F9F9F9;
-                font-family:Arial, sans-serif;
+                font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
                 margin:20px 0 0 0;
+                font-size:14px;
                 }
             </style>
             <div class="container">

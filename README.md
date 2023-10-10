@@ -41,6 +41,7 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 <div >
   <img src="./installation.svg"  alt="Click to see the source">
 </div>
+
 <div><img src="./divider.svg" alt="divider"></div>
 
 
@@ -51,6 +52,14 @@ For a more in-depth description of Covalent's features and how they work, see th
 <div>
   <img src="./know_more_box.svg"  alt="Click to see the source">
 </div>
+
+<div><img src="./divider.svg" alt="divider"></div>
+
+<div><img src="./tutorials.svg" alt="divider"></div>
+
+<div><img src="./divider.svg" alt="divider"></div>
+
+
 
 <!-- <div>
   <img src="./readme_copy.svg"  alt="Click to see the source">
