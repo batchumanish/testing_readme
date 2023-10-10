@@ -41,8 +41,8 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 <div >
   <img src="./installation.svg"  alt="Click to see the source">
 </div>
-<!-- <div><img src="./readme_divider.svg" alt="divider"></div> -->
-<svg width="820" height="2" viewBox="0 0 820 2" fill="none" xmlns="http://www.w3.org/2000/svg"> <line x1="4.37114e-08" y1="1.07349" x2="820" y2="1.07356" stroke="#43444A" /></svg>
+<div><img src="./divider.svg" alt="divider"></div>
+
 
 ## Know More
 
