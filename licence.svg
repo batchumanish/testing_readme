@@ -18,7 +18,7 @@
                 }
                 
                 .anch{
-                    color:#CBCBD7;
+                    color:yellow;
                     font-family:"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 
                 }
@@ -28,7 +28,7 @@
                 <div class="container">
                     License
                 </div>
-                <div class="para">Covalent is licensed under the Apache 2.0 License. See the  <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE" class="anch">LICENSE</a>  file or contact the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE">support team</a> for more details.</div>
+                <div class="para">Covalent is licensed under the Apache 2.0 License. See the  <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE" class="anch">LICENSE</a>  file or contact the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE" class="anch">support team</a> for more details.</div>
                 <div class="para">For a detailed history of changes and new features, see the <a href="https://github.com/AgnostiqHQ/covalent/blob/master/CHANGELOG.md" class="anch">Changelog</a></div>
 
             </div>
