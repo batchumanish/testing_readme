@@ -79,20 +79,19 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
   <div><img src="./divider.svg" alt="divider"></div>
 
- <div style="color:#F9F9F9; font-size:24px; font-weight:500;" >Citation</div>
+ <!-- <div style="color:#F9F9F9; font-size:24px; font-weight:500;" >Citation</div>
 
    <div style="color:#CBCBD7; font-size:14px; font-weight:400">Please use the following citation in any publications</div>
 
   <div style="color:#CBCBD7; font-size:14px; font-weight:400">
   <a href="https://zenodo.org/record/8369670"> https://doi.org/10.5281/zenodo.5903364
-  </div>
+  </div> -->
 
- <div><img src="./divider.svg" alt="divider"></div>
+  <div><img src="./citation.svg" alt="divider"></div>
 
-  <div style="color:#F9F9F9; font-size:24px; font-weight:500" >License</div>
 
-   <div style="color:#CBCBD7; font-size:14px; font-weight:400">Covalent is licensed under the Apache 2.0 License. See the LICENSE file or contact the support team for more details.
-For a detailed history of changes and new features, see the Changelog.</div>
+
+   <div><img src="./licence.svg" alt="divider"></div>
 <!-- <div>
   <img src="./readme_copy.svg"  alt="Click to see the source">
 </div> -->
