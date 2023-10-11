@@ -61,6 +61,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 <div><img src="./divider.svg" alt="divider"></div>
 
 <div >
+
 <div style="display:grid;place-items:center">
 Covalent’s serverless HPC architecture allows you to easily scale jobs from your laptop to your HPC/Cloud
 </div>
