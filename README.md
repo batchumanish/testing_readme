@@ -58,7 +58,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 <div><img src="./second_tutorial.svg" alt="divider"></div> -->
 
-<div><img src="./tutorial_heading.svg" alt="tutorial"></div>
+### Tutorials
 
 <div align="center" mt="1000"> 
 <a href="https://www.w3schools.com"><img src="./mnist_tutorial.svg" alt="divider"></a> 
@@ -67,7 +67,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 <a href="https://www.w3schools.com"><img src="./ai_tutorial.svg" alt="divider"></a> </div>
 
-<div><img src="./divider.svg" alt="divider"></div>
+
 
 <div >
 
