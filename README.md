@@ -94,13 +94,13 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 [https://doi.org/10.5281/zenodo.5903364](https://zenodo.org/records/8369670)
 
 
-  <div><img src="./divider.svg" alt="divider"></div>
 
-  <div><img src="./citation.svg" alt="divider"></div>
 
-  <div><img src="./divider.svg" alt="divider"></div>
+ ### License
 
-  <div><img src="./licence.svg" alt="divider"></div>
+ Covalent is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/AgnostiqHQ/covalent/blob/master/LICENSE) file or contact the [support team](support@aqnostic.ai) for more details. 
+ 
+ For a detailed history of changes and new features, see the [Changelog](https://github.com/AgnostiqHQ/covalent/blob/master/CHANGELOG.md).
 
   <!-- <div > <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
 
