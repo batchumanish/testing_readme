@@ -11,9 +11,20 @@
 [![Static Badge](https://img.shields.io/badge/codecov-88%25-%235552FF?logo=codecov)](https://codecov.io/gh/AgnostiqHQ/covalent)
 [![apache](https://img.shields.io/badge/License-Apache_License_2.0-blue?color=%235552FF)](https://www.apache.org/licenses/LICENSE-2.0)</div>
 
- <div align="center" mt="200">
+ <!-- <div align="center" mt="200">
    <img src="./getting_started.svg"  alt="hero" style="margin:15px 0 28px 0"/>
+</div> -->
+
+ <div align="center"> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/aws-plugins/"><img src="./aws.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/azurebatch/)"><img src="./azure.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/gcp/"><img src="./google.svg" alt="divider"></a> 
+<a href="https://covalent.readthedocs.io/en/latest/?badge=latest"><img src="./ibm.svg" alt="divider"></a>
 </div>
+<div align="center"><a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/slurm/"><img src="./slurm.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/dask/)"><img src="./dask.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs"><img src="./kubernetes.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs"><img src="./many_more.svg" alt="divider"></a></div>
 
  <div align="center">
   <img src="./readme_executor.svg"  alt="hero" />
@@ -35,15 +46,12 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
  </div> -->
 
  <div align="center"> 
-<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/aws-plugins/"><img src="./aws.svg" alt="divider"></a> 
-<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/azurebatch/)"><img src="./azure.svg" alt="divider"></a> 
-<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/gcp/"><img src="./google.svg" alt="divider"></a> 
-<a href="https://covalent.readthedocs.io/en/latest/?badge=latest"><img src="./ibm.svg" alt="divider"></a>
+<a href="https://docs.covalent.xyz/docs/"><img src="./getting_started.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/)"><img src="./documentation.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/"><img src="./examples.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/"><img src="./slack.svg" alt="divider"></a>
 </div>
-<div align="center"><a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/slurm/"><img src="./slurm.svg" alt="divider"></a> 
-<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/dask/)"><img src="./dask.svg" alt="divider"></a> 
-<a href="https://docs.covalent.xyz/docs"><img src="./kubernetes.svg" alt="divider"></a> 
-<a href="https://docs.covalent.xyz/docs"><img src="./many_more.svg" alt="divider"></a></div>
+
 
   <div align="center">
   <img src="./development.svg"  alt="executors"></img>
