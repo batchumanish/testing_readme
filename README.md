@@ -51,13 +51,10 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 
 <div align="center" mt="1000"> 
-<a href="https://www.w3schools.com"><img src="./what_is_covalent.svg" alt="divider"></a> 
-<a href="https://www.w3schools.com"><img src="./cloud_hpc.svg" alt="divider"></a> 
-
-
-<a href="https://www.w3schools.com"><img src="./concepts_of_covalent.svg" alt="divider"></a> 
-
-<a href="https://www.w3schools.com"><img src="./covalent_work.svg" alt="divider"></a>
+<a href="https://www.covalent.xyz/what-is-covalent/"><img src="./what_is_covalent.svg" alt="divider"></a> 
+<a href="https://www.covalent.xyz/navigating-the-modern-hpc-landscape/"><img src="./cloud_hpc.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/concepts/covalent-basics/"><img src="./concepts_of_covalent.svg" alt="divider"></a> 
+<a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work"><img src="./covalent_work.svg" alt="divider"></a>
 </div>
 
 
