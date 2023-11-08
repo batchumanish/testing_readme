@@ -83,7 +83,10 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
  <div><img src="./divider.svg" alt="divider"></div>
 
- <div><img src="./contributing_heading.svg" alt="divider"></div>
+### Contributing
+ <!-- <div><img src="./contributing_heading.svg" alt="divider"></div> -->
+ To contribute to Covalent, refer to the [Contribution Guidelines](https://github.com/AgnostiqHQ/covalent/blob/master/CONTRIBUTING.md). We use GitHub's issue tracking to manage known issues, bugs, and pull requests. Get started by forking the develop branch and submitting a pull request with your contributions. Improvements to the documentation, including tutorials and how-to guides, are also welcome from the community. For more more information on adding tutorials, check the Tutorial Guidelines Participation in the Covalent community is governed by the Code of Conduct.
+
 
   <div><img src="./divider.svg" alt="divider"></div>
 
