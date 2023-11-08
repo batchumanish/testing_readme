@@ -50,8 +50,8 @@ For a more in-depth description of Covalent's features and how they work, see th
 
 
 
-<div align="center" mt="1000"> 
-<div align="top">
+<div align="center"> 
+<div align="start">
 <a href="https://www.covalent.xyz/what-is-covalent/"><img src="./what_is_covalent.svg" alt="divider"></a> 
 <a href="https://www.covalent.xyz/navigating-the-modern-hpc-landscape/"><img src="./cloud_hpc.svg" alt="divider"></a> 
 <a href="https://docs.covalent.xyz/docs/user-documentation/concepts/covalent-basics/"><img src="./concepts_of_covalent.svg" alt="divider"></a> 
