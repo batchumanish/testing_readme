@@ -82,4 +82,6 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
   <div><img src="./licence.svg" alt="divider"></div>
 
-  <div> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
+  <div > <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
+
+  <div marginwidth="2000" marginheight="1000">tetsing deprecated attributes</div>
