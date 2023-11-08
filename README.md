@@ -39,6 +39,10 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 <a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/azurebatch/)"><img src="./azure.svg" alt="divider"></a> 
 <a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/gcp/"><img src="./google.svg" alt="divider"></a> 
 <a href="https://covalent.readthedocs.io/en/latest/?badge=latest"><img src="./ibm.svg" alt="divider"></a>
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/slurm/"><img src="./slurm.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/api-reference/executors/dask/)"><img src="./dask.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs"><img src="./kubernetes.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs"><img src="./many_more.svg" alt="divider"></a>
 </div>
 
   <div align="center">
