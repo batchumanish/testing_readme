@@ -85,11 +85,11 @@ For a more in-depth description of Covalent's features and how they work, see th
 ### Tutorials
 
 <div align="center" mt="1000"> 
-<a href="https://www.w3schools.com"><img src="./mnist_tutorial.svg" alt="divider"></a> 
-<a href="https://www.w3schools.com"><img src="./quantum_tutorial.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/mnist/"><img src="./mnist_tutorial.svg" alt="divider"></a> 
+<a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/quantumchemistry/"><img src="./quantum_tutorial.svg" alt="divider"></a> 
 
 
-<a href="https://www.w3schools.com"><img src="./ai_tutorial.svg" alt="divider"></a> </div>
+<a href="https://docs.covalent.xyz/docs/user-documentation/tutorials/generativeai/"><img src="./ai_tutorial.svg" alt="divider"></a> </div>
 
 
 
