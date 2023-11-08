@@ -63,6 +63,8 @@ For a more in-depth description of Covalent's features and how they work, see th
 <div> 
 <a href="https://www.w3schools.com"><img src="./mnist_tutorial.svg" alt="divider"></a> 
 <a href="https://www.w3schools.com"><img src="./quantum_tutorial.svg" alt="divider"></a> 
+
+<a href="https://www.w3schools.com"><img src="./quantum_tutorial.svg" alt="divider"></a>
 <a href="https://www.w3schools.com"><img src="./ai_tutorial.svg" alt="divider"></a> </div>
 
 <div><img src="./divider.svg" alt="divider"></div>
