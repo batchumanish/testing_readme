@@ -80,9 +80,11 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 
   <div><img src="./citation.svg" alt="divider"></div>
 
+  <div><img src="./divider.svg" alt="divider"></div>
+
   <div><img src="./licence.svg" alt="divider"></div>
 
-  <div > <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
+  <!-- <div > <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
 
   <div marginwidth="0" marginheight="0" bgcolor='red'>testing deprecated attributes</div>
 
@@ -93,5 +95,5 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
 </table>
 
 <div height='1000px'>sdsd</div>
-<div>sdsd2</div>
+<div>sdsd2</div> -->
 
