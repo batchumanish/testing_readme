@@ -48,11 +48,19 @@ Know More
 
 For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.
 
-<div>
-  <img src="./know_more_box.svg"  alt="Click to see the source">
+
+
+<div align="center" mt="1000"> 
+<a href="https://www.w3schools.com"><img src="./what_is_covalent.svg" alt="divider"></a> 
+<a href="https://www.w3schools.com"><img src="./cloud_hpc.svg" alt="divider"></a> 
+
+
+<a href="https://www.w3schools.com"><img src="./concepts_of_covalent.svg" alt="divider"></a> 
+
+<a href="https://www.w3schools.com"><img src="./covalent_work.svg" alt="divider"></a>
 </div>
 
-<div><img src="./divider.svg" alt="divider"></div>
+
 
 <!-- <div><img src="./tutorials.svg" alt="divider"></div>
 
@@ -100,16 +108,5 @@ Covalent’s serverless HPC architecture allows you to easily scale jobs from yo
  
  For a detailed history of changes and new features, see the [Changelog](https://github.com/AgnostiqHQ/covalent/blob/master/CHANGELOG.md).
 
-  <!-- <div > <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> <a href="https://www.w3schools.com"><img src="./tutorials.svg" alt="divider"></a> </div>
 
-  <div marginwidth="0" marginheight="0" bgcolor='red'>testing deprecated attributes</div>
-
-  <table cellpadding="100" cellspacing="0"  >
-  <tr>
-    <td>This cell has padding.</td>
-  </tr>
-</table>
-
-<div height='1000px'>sdsd</div>
-<div>sdsd2</div> -->
 
