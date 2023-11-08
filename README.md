@@ -38,9 +38,13 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
   <img src="./development.svg"  alt="executors"></img>
  </div>
 
-<div >
+<!-- <div >
   <img src="./installation.svg"  alt="Click to see the source">
-</div>
+</div> -->
+
+| **Installation**                                                                                                                                                                                                                                                                                         | **Getting started**                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Covalent is developed using Python version 3.8 on Linux and macOS. The easiest way to install Covalent is using the PyPI package manager: ![pip install](./code_snippet.svg)| Ready to try it? Refer to the [Quick Start](https://docs.covalent.xyz/docs/get-started/quick-start/) guide for quick setup instructions, or to the [First Experiment](https://docs.covalent.xyz/docs/get-started/first-experiment/) guide for a more thorough approach. For a full list of supported platforms, see the Covalent [compatibility matrix](https://docs.covalent.xyz/docs/user-documentation/compatibility/). For a more in-depth description of Covalent's features and how they work, see the [Concepts](https://docs.covalent.xyz/docs/user-documentation/concepts/concepts-index/) page in the documentation. |
 
 <!-- <div><img src="./divider.svg" alt="divider"></div> -->
 
@@ -57,17 +61,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 <a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work"><img src="./covalent_work.svg" alt="divider"></a>
 </div>
 
-<div display="flex">
-<div><a href="https://www.covalent.xyz/what-is-covalent/"><img src="./what_is_covalent.svg" alt="divider"></a> </div> 
-<div> For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation. For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.</div> 
-</div>
 
-
-
-
-<!-- <div><img src="./tutorials.svg" alt="divider"></div>
-
-<div><img src="./second_tutorial.svg" alt="divider"></div> -->
 
 ### Tutorials
 
