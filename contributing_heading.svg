@@ -25,7 +25,7 @@
 
             </style>
             <div>
-                <div class="gg"><input type="text" value="Click Me" onclick="window.location.href='https://example.com'"></input></div>
+                <div class="gg"><input class="gg" type="text" value="Click Me" onclick="window.location.href='https://example.com'"></input></div>
                 <div class="container">
                     Contributing
                 </div>
