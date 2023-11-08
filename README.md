@@ -57,7 +57,7 @@ For a more in-depth description of Covalent's features and how they work, see th
 <a href="https://github.com/AgnostiqHQ/covalent/blob/develop/README.md#how-does-it-work"><img src="./covalent_work.svg" alt="divider"></a>
 </div>
 
-<div align="center">
+<div display="flex">
 <div><a href="https://www.covalent.xyz/what-is-covalent/"><img src="./what_is_covalent.svg" alt="divider"></a> </div> 
 <div> For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation. For a more in-depth description of Covalent's features and how they work, see the Concepts page in the documentation.</div> 
 </div>
