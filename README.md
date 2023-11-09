@@ -43,7 +43,7 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 
 [![Alt text for your video](https://example.com/your-video-thumbnail.jpg)]("./readme.mp4") -->
 
-[![Video Title](https://img.youtube.com/vi/v=U9mJuUkhUzk/0.jpg)](https://www.youtube.com/watch?v=v=U9mJuUkhUzk)
+![Video Title](https://www.youtube.com/watch?v=nbohzQdi24U)
 
 
 
