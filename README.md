@@ -41,6 +41,9 @@ Covalent enables a researcher to run computation tasks on an advanced hardware p
 </video> 
  </div>
 
+[![video]](./readme.mp4)
+
+
  <!-- <div align="center">
   <img src="./executors.svg"  alt="executors"></img>
  </div> -->
